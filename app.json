@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "DynamicImageViewer",
+    "slug": "DynamicImageViewer",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
