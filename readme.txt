@@ -11,7 +11,7 @@ Summary:
 Installation of Expo Go and the React-Native Client:
 	This project assumes that the user has a Windows 10 machine and node.js installed as well
 	as an android mobile phone with the expo go app installed.
-	In the windows command line under the project directory (../DynamicImageViewer) 
+	In the windows command line under the project directory
 	enter the following:
 		npm install
 		npm install -g expo-cli
@@ -20,5 +20,3 @@ Installation of Expo Go and the React-Native Client:
 		get recommended to the user
 		- scan the QR code given with the expo go app on your phone and the app will begin
 		deploying for user development
-
-Screenshots of the app can be found at the base directory of the project folder
